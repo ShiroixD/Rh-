@@ -10,10 +10,10 @@ Platform: **PC, Windows**
 
 My share:
 
-    - Created **collision system** (box, sphere)
-    - Optimalized **rendering** with **camera cut off** and **octree**
-    - Designed **UI** (character and health bars, skills, story tips)
-    - Designed and implemented **skills mechanics**
+    - Created collision system (box, sphere)
+    - Optimalized rendering with camera cut off and octree
+    - Designed UI (character and health bars, skills, story tips)
+    - Designed and implemented skills mechanics
 
 
 Controls (keybord + mouse):
